@@ -1,6 +1,6 @@
 [package]
 name = "rmq"
 version = "0.1.0"
-authors = ["kangfeng.yi <kangfeng.yi@corp.elong.com>"]
+authors = ["kangfeng.yi <kangfeng01@126.com>"]
 
 [dependencies]
